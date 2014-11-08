@@ -2,13 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>carte_oct</name>
-	<Style id="pin">
-		<IconStyle>
-			<Icon>
-				<href>http://www.qhapaq-nan.org/images/kml/googlemap_picto.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
 	<Folder>
 		<name>Ayacucho - Andahuaylas</name>
 		<Placemark>
