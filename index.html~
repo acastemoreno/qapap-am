@@ -24,7 +24,7 @@ function initialize() {
       mapOptions);
 
   var kmlLayer = new google.maps.KmlLayer({
-    url: 'placemark.kml',
+    url: 'http://localhost:8080/placemark.kml',
     suppressInfoWindows: true,
     map: map
   });
