@@ -920,7 +920,8 @@
 			</MultiGeometry>
 		</Placemark>
 	</Folder>
-	<Placemark>
+</Document>
+<Placemark>
 		<name>Versant Nord du cerro Arenas</name>
 		<description><![CDATA[<table>
 <tr><td width="100%"><img src=http://www.qhapaq-nan.org/images/stories/com_form2content/p1/f13/thumbs/2.jpg></td></tr>
@@ -4240,5 +4241,4 @@
 			<coordinates>-67.26691700000001,-27.56055599999999,0</coordinates>
 		</Point>
 	</Placemark>
-</Document>
 </kml>
