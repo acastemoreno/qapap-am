@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-	<name>carte_oct</name>
-	<Folder>
+<Folder>
 		<name>Ayacucho - Andahuaylas</name>
 		<Placemark>
 			<name>Norte de Toccto</name>
@@ -4239,4 +4238,5 @@
 			<coordinates>-67.26691700000001,-27.56055599999999,0</coordinates>
 		</Point>
 	</Placemark>
+</Document>
 </kml>
