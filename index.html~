@@ -30,7 +30,7 @@ function initialize() {
   });
 
   google.maps.event.addListener(kmlLayer, 'click', function(kmlEvent) {
-    var text = kmlEvent.featureData.description;
+    var text = kmlEvent.featureData.name;
     showInContentWindow(text);
   });
 
