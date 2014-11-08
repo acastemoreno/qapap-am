@@ -311,7 +311,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Llacsacancha - Cerro Incañan</name>
-			<open>1</open>
+			<open>1</open>F
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -322,7 +322,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Querapuquio</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -333,7 +332,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Huasqui - Qda Auquibamba</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -344,7 +342,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Tarmatambo -Norte de Huaricolca</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -355,7 +352,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Huaricolca - Inmediaciones de Lomo Largo</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -365,7 +361,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Lomo Largo (1)</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -375,7 +370,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Lomo Largo (2)</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -385,7 +379,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Lomo Largo - Tingo Paccha</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -396,7 +389,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Tingo Paccha - Yanamarca</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -407,7 +399,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Concepción</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -421,7 +412,6 @@
 		<name>Huanucopampa - Río Yanahuanca</name>
 		<Placemark>
 			<name>Huanucopampa - Iscopampa</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -432,7 +422,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Inmediaciones de Tamborajra - Río Nupe</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -443,7 +432,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Río Nupe - Inmediaciones de Tambococha</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -454,7 +442,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Tambococha - Norte de Gashanpampa</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -465,7 +452,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Sur de Gashanpampa - Huarautambo</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -479,7 +465,6 @@
 		<name>Piscobamba - Huanucopampa</name>
 		<Placemark>
 			<name>Canrash - Pucayacu</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -490,7 +475,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Puna de Puhuaj - Inmediaciones de Cuchicorral</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -501,7 +485,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Pomachaca - Sur de Castillo</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -512,7 +495,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Castillo - Soledad de Tambo</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -523,7 +505,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Soledad de Tambo - Ayash</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -534,7 +515,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Ayash - Sur de Huamanín</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -545,7 +525,6 @@
 		</Placemark>
 		<Placemark>
 			<name>Inmediaciones de Lliulla</name>
-			<styleUrl>#sn_ylw-pushpin11502</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
