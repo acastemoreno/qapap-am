@@ -311,7 +311,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Llacsacancha - Cerro Incañan</name>
-			<open>1</open>F
+			<open>1</open>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
