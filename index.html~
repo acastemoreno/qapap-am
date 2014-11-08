@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>KML feature details</title>
+    <title>KML feature details</tikmlLayertle>
     <style>
       html, body, #map-canvas {
         height: 100%;
@@ -30,7 +30,7 @@ function initialize() {
   });
 
   var mcOptions = {gridSize: 50, maxZoom: 15};
-  var mc = new MarkerClusterer(map, ctaLayer, mcOptions);
+  var mc = new MarkerClusterer(map, rangecolour, mcOptions);
 
   google.maps.event.addListener(kmlLayer, 'click', function(kmlEvent) {
     var text = kmlEvent.featureData.name;
