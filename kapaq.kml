@@ -2,63 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>carte_oct</name>
-	<Style id="sn_ylw-pushpin115300">
-		<LineStyle>
-			<color>ff001cbc</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="pin">
-		<IconStyle>
-			<Icon>
-				<href>http://www.qhapaq-nan.org/images/kml/googlemap_picto.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="sn_ylw-pushpin11502">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin11501</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ylw-pushpin1150</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin2">
-		<LineStyle>
-			<color>ff0000c3</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ylw-pushpin115200">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin115300</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ylw-pushpin11510</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin11510">
-		<LineStyle>
-			<color>ff001cbc</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin11501">
-		<LineStyle>
-			<color>ff0000c3</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin1150">
-		<LineStyle>
-			<color>ff0000c3</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
 	<Folder>
 		<name>Ayacucho - Andahuaylas</name>
 		<Placemark>
